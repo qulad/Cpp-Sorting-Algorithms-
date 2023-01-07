@@ -1,15 +1,19 @@
 # C++ Sorting Algorithms
 Sorting algorithms in C++
 
+To use it just ```#include "filename"``` 
+- Bubble Sort:
+  - bubbleSort_SingleThread(T arr[], unsigned int size)
+  - bubbleSort_Multithread(T arr[], unsigned int size)
 
+T could be int, float or double.
 
-Currently have:
+----------------------------
 
-- Bubble Sort
+Algorithms in this repo:
 
-Going to add:
-
-- Selection Sort
-- Insertion Sort
-- Merge Sort
-- Quick Sort
+- [x] Bubble Sort
+- [ ] Selection Sort
+- [ ] Insertion Sort
+- [ ] Merge Sort
+- [ ] Quick Sort
