@@ -6,11 +6,13 @@ To use it just ```#include "filename"```
   - bubbleSort_singleThread(T arr[], unsigned int size)
   - bubbleSort_multithread(T arr[], unsigned int size)
 - Selection Sort:
-  - selectionSort_singleThread(T arr[], unsigned int size)
+  - selectionSort_SingleThread(T arr[], unsigned int size)
 - Insertion Sort:
-  - insertionSort_singleThread(T arr[], unsinged int size)
+  - insertionSort_SingleThread(T arr[], unsinged int size)
+- Merge Sort:
+  - mergeSort_SingleThread(T arr[], int start, int end)
 - Quick Sort:
-  - quickSort_singleThread(T arr[], int start, int end)
+  - quickSort_SingleThread(T arr[], int start, int end)
 
 T could be int, float or double.
 
@@ -24,5 +26,5 @@ Algorithms in this repo:
 - [x] Bubble Sort
 - [x] Selection Sort
 - [x] Insertion Sort
-- [ ] Merge Sort
+- [x] Merge Sort
 - [x] Quick Sort
