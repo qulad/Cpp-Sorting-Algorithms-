@@ -28,3 +28,4 @@ Algorithms in this repo:
 - [x] Insertion Sort
 - [x] Merge Sort
 - [x] Quick Sort
+lolololololololop
